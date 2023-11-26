@@ -1,2 +1,2 @@
 # flexbox-css-pricinglist
-Made this Pricing List using FLexbox. 
+Made this Pricing List using Flexbox while learning CSS.
